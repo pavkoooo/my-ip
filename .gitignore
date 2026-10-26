@@ -1,0 +1,5 @@
+.DS_Store
+MyIPWidget.app/
+build/
+status.json
+widget.log
